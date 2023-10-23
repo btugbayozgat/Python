@@ -8,7 +8,7 @@ print(c)
 r=1.5
 pi=3.14
 alan=pi*r*r
-print(alan)
+print(alan) 
 
 # soru 2'nin cevabı
 # dairenin çevresi
@@ -34,3 +34,4 @@ print(t)
 t=4.545454545454546
 dk=t/60
 print(dk)
+
